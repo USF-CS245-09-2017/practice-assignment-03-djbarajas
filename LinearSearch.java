@@ -17,6 +17,6 @@ public class LinearSearch implements Practice03Search {
                 return i;
             }
         }
-        return 0;
+        return -1;
     }
 }

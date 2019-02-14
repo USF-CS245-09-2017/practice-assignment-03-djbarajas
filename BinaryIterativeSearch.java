@@ -33,6 +33,6 @@ public class BinaryIterativeSearch implements Practice03Search{
             }
 
         }
-        return 0;
+        return -1;
     }
 }
